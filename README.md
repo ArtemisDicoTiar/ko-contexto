@@ -10,5 +10,15 @@ Vue-js
 Flask
 
 ## Algorithm / Neural Model Delivery
-torch-serve
+Korean BERT
+
+### Search Serving
+Elastic Search
+
+### Index Corpus
+Korean Dictionary sorted by frequency.
+* word come up too often will be dropped.
+* word come up too rare will also be dropped.
+
+
 
